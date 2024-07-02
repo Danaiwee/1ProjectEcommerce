@@ -194,7 +194,8 @@ main {
 }
 
 .section-3 {
-    padding-bottom: 50px;
+    padding: 20px 50px 50px 50px;
+    flex-wrap: wrap;
 
     display: flex;
     flex-direction: column;
@@ -297,6 +298,9 @@ main {
     background-size: 100% 100%;
     padding-bottom: 80px;
     padding-top: 80px;
+    padding-left: 50px;
+    padding-right: 50px;
+    flex-wrap: wrap;
 
     display: flex;
     flex-direction: column;
@@ -323,6 +327,7 @@ main {
     border-radius: 10px;
     cursor: pointer;
     margin-top: 10px;
+    
 }
 
 .section-4 > div:nth-child(3)  p:hover {
