@@ -629,8 +629,9 @@ main {
 }
 
 .sm-img-3 {
-    width: 140px;
+    width: 200px;
     margin-bottom: 20px;
+    margin-left: -20px;
 }
 
 .footer-4-3 p {
