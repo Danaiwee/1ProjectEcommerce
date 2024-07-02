@@ -548,3 +548,93 @@ main {
     color: white;
     font-weight: bold;
 }
+
+.footer {
+    padding: 50px 50px;
+
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.super-mini {
+    width: 20px;
+}
+
+.footer-1-2 {
+    margin-top: 10px;
+    padding-left: 20px;
+}
+
+.footer-1-2 h3 {
+    margin-bottom: 10px;
+}
+
+.footer-1-2 p {
+    font-size: 16px;
+    font-style: italic;
+    color: #797979;
+    margin-bottom: 10px;
+}
+
+.footer-1-2 span {
+    font-weight: bold;
+}
+
+.footer-1-3 {
+    padding-left: 20px;
+    margin-top: 20px;
+}
+
+.footer-1-4 {
+    padding-left: 20px;
+    margin-top: 10px;
+}
+
+.footer-2 {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-2 h3 {
+    margin-bottom: 10px;
+}
+
+.a-link-footer {
+    text-decoration: none;
+    margin-top: 15px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #797979;
+}
+
+.a-link-footer:hover {
+    color: #088178;
+}
+
+.footer-4-1 h3 {
+    margin-bottom: 10px;
+}
+
+.footer-4-1 p {
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #797979;
+}
+
+.sm-img-3 {
+    width: 140px;
+    margin-bottom: 20px;
+}
+
+.footer-4-3 p {
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #797979;
+}
+
+.ssm-img-2 {
+    width: 50px;
+}
